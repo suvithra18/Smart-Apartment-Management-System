@@ -97,3 +97,11 @@ A full-stack web application designed to streamline apartment and society manage
 
 ---
 
+## 🚀 Future Enhancements
+
+- 🔔 Real-time notifications using WebSockets
+- 📱 Mobile application for Android and iOS
+- 💬 In-app chat between residents, management, and security
+- 🌐 Multi-society management support
+- 📍 Visitor live tracking and QR code-based entry system
+- 📹 CCTV integration for enhanced security monitoring
