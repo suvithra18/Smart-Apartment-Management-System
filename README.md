@@ -128,8 +128,8 @@ A full-stack web application designed to streamline apartment and society manage
 </p
 
 <p align="center">
-  <img src="scrennshoots/reputation.png" width="45%">
-  <img src="scrennshoots/visitor.png" width="45%">
+  <img src="screenshots/reputation.png" width="350" />
+  <img src="screenshots/visitor.png" width="350" />
 </p>
 
 <p align="center">
