@@ -108,7 +108,7 @@ A full-stack web application designed to streamline apartment and society manage
 
 ## 📸Screenshoots
  <p align="center">
-  <img src="screennshoots/login.png" width="45%">
+  <img src="scrennshoots/login.png" width="45%">
   <img src="screenshoots/dashboard.png" width="45%">
 </p>
 
