@@ -131,3 +131,8 @@ A full-stack web application designed to streamline apartment and society manage
   <img src="scrennshoots/reputation.png" width="45%">
   <img src="scrennshoots/visitor.png" width="45%">
 </p>
+
+<p align="center">
+  <img src="scrennshoots/residents.png" width="45%">
+  <img src="scrennshoots/parking.png" width="45%">
+</p>
