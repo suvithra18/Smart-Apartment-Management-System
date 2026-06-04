@@ -130,6 +130,6 @@ A full-stack web application designed to streamline apartment and society manage
 
 
 <p align="center">
-  <img src="scrennshoots/residents.png" width="45%">
-  <img src="scrennshoots/parking.png" width="45%">
+  <img src="scrennshoots/residents.png" width="43%">
+  <img src="scrennshoots/parking.png" width="43%">
 </p>
